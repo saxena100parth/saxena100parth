@@ -43,7 +43,7 @@
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saxena100parth&" alt="saxena100parth" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saxena100parth&show_icons=true&locale=en" alt="saxena100parth" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saxena100parth&show_icons=true&locale=en" alt="saxena100parth" /></p>-->
 
 
 
