@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif)
 
-<h1 align="center">Hi 👋, I'm Parth saxena</h1>
+<h1 align="center">Hi 👋, I'm Parth Saxena</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
  <!--<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9dde9f1edf0e3340088f47f17b4f20c98536e79a1ca6157f942a33e582fe58fd/68747470733a2f2f74332e667463646e2e6e65742f6a70672f30352f30302f31372f34342f3234305f465f3530303137343433315f4f35657558536d7072694c364557634937736531736948726b4e504a395a39692e6a7067">
 -->
