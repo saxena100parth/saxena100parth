@@ -47,6 +47,6 @@
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saxena100parth&show_icons=true&locale=en" alt="saxena100parth" /></p>-->
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="parth23saxena" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/parth23saxena?trk=profile-badge">Parth Saxena</a></div>
+
               
 
