@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Java Spring boot**
 
-- 💬 Ask me about **Data Structure and MERN stac technologies**
+- 💬 Ask me about **Data Structure and MERN technologies**
 
 - 📫 How to reach me **saxena100parth@gmail.com**
 
