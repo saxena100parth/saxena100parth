@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/saxena100parth" target="blank"><img src="https://img.shields.io/twitter/follow/saxena100parth?logo=twitter&style=for-the-badge" alt="saxena100parth" /></a> </p>
 
-- 🔭 I’m currently working on webApp **Memories**
+- 🔭 I’m currently working on  **backend technologies**
 
-- 🌱 I’m currently learning **FullSack in MERN stack**
+- 🌱 I’m currently learning **Java Spring boot**
 
-- 💬 Ask me about **Data Structure and web technologies**
+- 💬 Ask me about **Data Structure and MERN stac technologies**
 
 - 📫 How to reach me **saxena100parth@gmail.com**
 
