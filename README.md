@@ -1,9 +1,9 @@
 <img  align="right" width="380" src ="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 <!-- ![MasterHead](https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif) -->
 
-
+[![](https://visitcount.itsvg.in/api?id=saxena100parth&icon=0&color=1)](https://visitcount.itsvg.in)<br>
 # 💫 About Me:
-🔭 I am fluid, focused and willing to learn new things. In all, I believe in   knowledge integration.<br><br>🌱 Areas of Interest : <br>1. Algorithms and Data Structure<br>2. Web Development<br>3. Java and Spring boot<br>4. Javascript and React<br><br><br><br>
+🔭 I am fluid, focused and willing to learn new things. In all, I believe in   knowledge integration.<br><br>🌱 Areas of Interest : <br>1. Algorithms and Data Structure<br>2. Web Development<br>3. Java and Spring boot<br>4. Javascript and React<br><br><br>
 🤝 I'm currently seeking a job opportunity in a dynamic and forward-thinking company that can effectively leverage my creative talents and innovative capabilities. I am a hardworking and reliable individual who is committed to contributing towards the achievement of company goals.<br>
 
 
@@ -25,7 +25,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=saxena100parth&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=saxena100parth&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
