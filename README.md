@@ -1,54 +1,38 @@
-![MasterHead](https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif)
-<!-- ![MasterHead](https://opedia.mo.cloudinary.net/opediatech_images/hero/service.gif) -->
+<br> <img  align="right" width="400" src ="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
+<!-- ![MasterHead](https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif) -->
 
-<h1 align="center">Hi 👋, I'm Parth Saxena</h1>
-<h3 align="center">A passionate fullStack developer from India</h3>
- <!--<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9dde9f1edf0e3340088f47f17b4f20c98536e79a1ca6157f942a33e582fe58fd/68747470733a2f2f74332e667463646e2e6e65742f6a70672f30352f30302f31372f34342f3234305f465f3530303137343433315f4f35657558536d7072694c364557634937736531736948726b4e504a395a39692e6a7067">
--->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saxena100parth&label=Profile%20views&color=0e75b6&style=flat" alt="saxena100parth" /> </p>
+# 💫 About Me:
+🔭 I am fluid, focused and willing to learn new things. In all, I believe in knowledge integration.<br><br>🌱 Areas of Interest : <br>1. Algorithms and Data Structure<br>2. Web Development<br>3. Java and Spring boot<br>4. Javascript and React<br><br><br>
+🤝 I'm currently seeking a job opportunity in a dynamic and forward-thinking company that can effectively leverage my creative talents and innovative capabilities. I am a hardworking and reliable individual who is committed to contributing towards the achievement of company goals.<br>
 
-<p align="left"> <a href="https://twitter.com/saxena100parth" target="blank"><img src="https://img.shields.io/twitter/follow/saxena100parth?logo=twitter&style=for-the-badge" alt="saxena100parth" /></a> </p>
 
-- 🔭 I’m currently working on  **backend tech**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/parth23saxena/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/saxena100parth) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_parth_23_/) 
 
-- 🌱 I’m currently learning **Java Spring boot**
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) <br>![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+<!-- ![](https://github-readme-stats.vercel.app/api?username=saxena100parth&theme=algolia&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
 
-- 💬 Ask me about **Data Structure and MERN technologies**
+![](https://github-readme-streak-stats.herokuapp.com/?user=saxena100parth&theme=algolia&hide_border=true)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saxena100parth&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 📫 How to reach me **saxena100parth@gmail.com**
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-- ⚡ Fun fact **I am electronics engineer by education but software engineer by passion.**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=saxena100parth&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=saxena100parth&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PbYX7eKUT1pqP6v7I8sIYEQTmq7msgFi/view?usp=sharing](https://drive.google.com/file/d/1PbYX7eKUT1pqP6v7I8sIYEQTmq7msgFi/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 
-<a href="https://twitter.com/saxena100parth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saxena100parth" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/parth23saxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth23saxena" height="30" width="40" /></a>
-<a href="https://instagram.com/_parth_23_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_parth_23_" height="30" width="40" /></a>
- <a href="https://discord.gg/3439" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3439" height="30" width="40" /></a>
-</p>
-<!--<a href="https://www.codechef.com/users/parthsaxena_23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="parthsaxena_23" height="30" width="40" /></a> -->
-<!-- <a href="https://www.hackerrank.com/saxena100parth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saxena100parth" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/parth23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="parth23" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/_parth_23_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_parth_23_" height="30" width="40" /></a> -->
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">-->
- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saxena100parth&" alt="saxena100parth" /></p>
-
-<!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=saxena100parth&show_icons=true&locale=en&layout=compact" alt="saxena100parth" /></p>
- -->
-
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saxena100parth&show_icons=true&locale=en" alt="saxena100parth" /></p>-->
-
-
-              
 
