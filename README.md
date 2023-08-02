@@ -1,5 +1,5 @@
-<img  align="right" width="380" src ="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
-<!-- ![MasterHead](https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif) -->
+<-- <img  align="right" width="380" src ="https://as2.ftcdn.net/v2/jpg/05/50/05/31/1000_F_550053139_ZSmiuloCnlraVUwTPim2h92kU3AKaxb0.jpg"> 
+<!-- https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif -->
 
 [![](https://visitcount.itsvg.in/api?id=saxena100parth&icon=0&color=1)](https://visitcount.itsvg.in)
 # 💫 About Me:
