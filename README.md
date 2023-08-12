@@ -20,22 +20,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saxena100parth&theme=algolia&hide_border=true)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saxena100parth&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+<!--
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=saxena100parth&limit=5&theme=algolia&combine_all_yearly_contributions=true)
-
----
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PbYX7eKUT1pqP6v7I8sIYEQTmq7msgFi/view?usp=sharing](https://drive.google.com/file/d/1PbYX7eKUT1pqP6v7I8sIYEQTmq7msgFi/view?usp=sharing)
-
-
 
