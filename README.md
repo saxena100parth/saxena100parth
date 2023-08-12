@@ -5,11 +5,12 @@
 
 [![Visit Count](https://visitcount.itsvg.in/api?id=saxena100parth&icon=0&color=1)](https://saxena100parth.github.io/Portfolio/index.html)
 
-
-
 # 💫    <span align="center"> <strong> Full Stack Developer </strong>  </span>
 
-🔭 I am fluid, focused and willing to learn new things. In all, I believe in knowledge integration.<br><br>🌱 Areas of Interest : <br>1. Algorithms and Data Structure<br>2. Web Development<br>3. Javascript and MERN<br>4. Java and Spring boot<br><br>
+🔭 I am fluid, focused and willing to learn new things. In all, I believe in knowledge integration.
+<div align="center">
+ 🌱 Areas of Interest : <br>1. Algorithms and Data Structure<br>2. Web Development<br>3. Javascript and MERN<br>4. Java and Spring boot<br><br>
+</div>
  🤝 I'm currently seeking a job opportunity in a dynamic and forward-thinking company that can effectively leverage my creative talents and innovative capabilities. I am a hardworking and reliable individual who is committed to contributing towards the achievement of company goals. <br>
  
 
