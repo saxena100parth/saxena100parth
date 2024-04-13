@@ -8,7 +8,7 @@
 
  🤝 I'm currently seeking a job opportunity in a dynamic and forward-thinking company that can effectively leverage my creative talents and innovative capabilities.
 
- <img  align="right" width="450" src = "https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">  
+ <img  align="right" width="350" src = "https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">  
 
 <strong> ![Static Badge](https://img.shields.io/badge/Active%20GitHub%20Account%20%3A--8A2BE2?style=social)
  </strong> [![Github](https://img.shields.io/badge/Github-%230077B5.svg?logo=Github&logoColor=Black)](https://github.com/parth11beelabs)  
