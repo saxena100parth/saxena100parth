@@ -32,7 +32,6 @@
 ![ejs](https://img.shields.io/badge/ejs-%231572B6.svg?style=flat&logo=ejs&logoColor=white) 
 ![jiza](https://img.shields.io/badge/jira-%23563D7C.svg?style=flat&logo=jira&logoColor=white) 
 ![aws](https://img.shields.io/badge/AWS-%23430098.svg?style=flat&logo=AWS&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
