@@ -33,7 +33,7 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) 
 ![docker](https://img.shields.io/badge/docker-%23E34F26.svg?style=flat&logo=docker&logoColor=white) 
 ![ejs](https://img.shields.io/badge/ejs-%231572B6.svg?style=flat&logo=ejs&logoColor=white) 
-![jiza](https://img.shields.io/badge/jira-%23563D7C.svg?style=flat&logo=jira&logoColor=white) 
+![jiza](https://img.shields.io/badge/jira-%23563D7C.svg?style=flat&logo=jira&logoColor=white)  
 ![aws](https://img.shields.io/badge/AWS-%23430098.svg?style=flat&logo=AWS&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
